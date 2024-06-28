@@ -1,0 +1,64 @@
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 27px;
+    
+}
+
+body{
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/006/861/161/small/light-blue-background-gradient-wall-design-vector.jpg);
+  opacity: 0.5% 20% 10%;
+}
+
+.card{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/006/861/161/small/light-blue-background-gradient-wall-design-vector.jpg);
+    opacity: 0.5% 20% 0.5%;
+}
+
+.navbar-brand{
+    color: rgb(60, 120, 230);
+    
+}
+
+.nav-link{
+    font-size: 20px;
+    color: rgb(55, 125, 216);
+   
+}
+
+.navbar{
+    background-image: url(#);
+    opacity: 0.5% 20%;
+}
+
+.footer{
+    background-color: azure;
+}
+
+.form-control{
+    border-color: brown;
+    box-shadow: 3px 3px 3px rgb(31, 21, 23);
+    height: 40px;
+}
+
+.btn{
+    box-shadow: 3px 3px 3px rgb(28, 204, 175);
+    
+}
+
+.row2{
+    padding-left: 350px;
+}
+
+.row4{
+    background-color: aqua;
+    
+}
+
+.container1{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/006/861/161/small/light-blue-background-gradient-wall-design-vector.jpg);
+}
+
+.rowd{
+    size: 400px;
+}
